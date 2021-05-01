@@ -1,0 +1,21 @@
+#sor{
+    display:none;
+}
+input{
+    margin: 10;
+}
+#display1{
+    border: 4px rgb(68, 0, 255) solid;
+     background-color: cyan;
+     border-radius: 100px;
+     width: 50%;
+     padding: 10px;
+}
+
+#display2{
+    border: 4px rgb(0, 255, 115) solid;
+     background-color: rgb(2, 122, 2);
+     border-radius: 100px;
+     width: 50%;
+     padding: 10px;
+}
